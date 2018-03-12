@@ -10,3 +10,5 @@ Current version:
 
 Thanks for your support!
 Inspired thanks to the guys at /r/PythonProjects2
+
+Test if commit also commits to GitHub
